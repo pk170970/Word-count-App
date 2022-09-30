@@ -1,4 +1,4 @@
-# ⭐ Project - Color Prediction Game⭐
+# ⭐ Project - Word Counter App⭐
 
 This  project of javascript is made from pure HTML,CSS and Javascript.
 
@@ -22,7 +22,7 @@ I got this assignment from iNeuron Bootcamp.
 
 ## Links
 
-[Link](javascriptmywordcounter.netlify.app)
+[Link](https://javascriptmywordcounterapp.netlify.app/)
 
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
